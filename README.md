@@ -7,11 +7,12 @@ new_york_city.csv
 washington.csv
 
 ### Project Title
-bikeshare project
+US Bikeshare Analyse Program
 
 ### Description
 Describe what your project is about and what it does
 Analyze data from bikeshare data
+
 ### Files used
 Include the files used
 bikeshare.py
